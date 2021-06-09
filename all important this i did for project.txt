@@ -1,4 +1,0 @@
-changes gitbash ke credentials
-type---cred---github login account password
-Minorproject is that which i pushed on github ...uski ek file downloads meh bhi hai need to delete it
-0201cs181063 waaley github pr dala hai....then we will host it.
